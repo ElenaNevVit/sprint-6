@@ -1,0 +1,23 @@
+# IDEA файлы
+.idea/
+*.iml
+*.iws
+
+# Сборка
+out/
+target/
+build/
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# JAR файлы
+*.jar
+
+# Кэш
+.gradle/
+.mvn/
